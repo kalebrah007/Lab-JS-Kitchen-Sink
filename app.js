@@ -45,14 +45,14 @@ checkAge("Eve", "22")
 checkAge("Erin", "23");
 
 var getLength = "Hello World" 
-var b = 11; 
-  count = 0;
-for (var i = 0; i < getLength.length; i++){
+var b = 10; 
+    count = 0;
+for (var i = 0; i < 20; i++){
   if(getLength.charAt(i) === '11'){
     count++;
   }
 }
-console.log('The world is an odd place!')  
+console.log('The world is nice and even!')  
   
   
   
